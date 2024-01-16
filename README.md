@@ -3,11 +3,6 @@
 ### Education 
 Bachellor degree in Computer Science Engineer
 ### Work experience 
-Front End developer  at Itexico
-big impact 
-big impact 
-
-### Projects 
 
 #### Develop app for Itexico for manage hospital whit Ionic and Mysql lite and also work whit otre team to develop in Angular y Laravel adverticement app. 
 #### Develop app for Tiempo to  content manage advertisement acounts  whit Codeignite PHP , Vagarant, Angular y Javascript
@@ -19,3 +14,9 @@ big impact
 #### Develop several applications for management of internal services for Collins Farmaceutical: stock and products.
 #### Develop many landing page for a hospital, for a agrotecnologies industry, dentist 
 #### Develop several applications for management of internal services: employees, material resources, workshops for children, records of clinical records in the nursing area in the government of Jalisco.
+
+### Projects 
+Landing page for DentalMe
+Landing page for pruebapack
+Challenge for technical examns
+
