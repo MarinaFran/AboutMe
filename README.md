@@ -8,8 +8,10 @@ big impact
 big impact 
 
 ### Projects 
-Develop app for Allbound 
-Develop app for Zourcing 
-Develop and app for Zilos 
-Develop mobile app for school
-Develop landing page for a hospital 
+Develop app for CRM content for manage advertisement acounts  at Tiempo whit Codeignite PHP , Vagarant, Angular y Javascript
+Develop app for that manage employees profiles Zourcing whit Angular v6 to migrate to mobile version
+Develop app for Pemex at Dextra review and repair a dashboard app and create documentation  
+Develop and app for Zilos at Melilx whit PHP Zend, create a admin system to manage information about the conditions in zilos
+Develop mobile app for school whit Typescript and Redux , to sell and payments
+Develop and manage services for Collins Farmaceutical.
+Develop many landing page for a hospital, for a agrotecnologies industry, dentist 
