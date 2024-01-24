@@ -10,6 +10,7 @@ Javascript Node Express Mongodb Mysql Git Graphql  Tailwind Figma bootstrap Linu
 React Redux Typescript Vite Next Firebase, Glogle Clouds
 
 ### Education 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://webpack.js.org" rel="nofollow">
 Bachellor degree in Computer Science Engineer
 ### Work experience 
 
