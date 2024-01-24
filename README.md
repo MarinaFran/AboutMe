@@ -15,6 +15,11 @@ React Redux Typescript Vite Next Firebase, Glogle Clouds
 ### Education 
 
 Bachellor degree in Computer Science Engineer
+
+### Learnign Today From :
+
+https://leetcode.com/Ambarjs/
+
 ### Work experience 
 
 #### Develop app for Itexico for manage hospital whit Ionic and Mysql lite and also work whit otre team to develop in Angular y Laravel adverticement app. 
