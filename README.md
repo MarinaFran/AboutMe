@@ -1,5 +1,13 @@
 # Front End Developer 
 
+Hi 👋, I'm Marina
+Connect with me:
+https://www.linkedin.com/in/perla-marina/
+
+
+##Languages and Tools:
+bootstrap css3 express figma git graphql html5 javascript jest linux mocha mongodb mysql nestjs nodejs postgresql postman pug react reactnative redux typescript webpack
+
 ### Education 
 Bachellor degree in Computer Science Engineer
 ### Work experience 
