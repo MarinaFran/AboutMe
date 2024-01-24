@@ -6,7 +6,8 @@ https://www.linkedin.com/in/perla-marina/
 
 
 ##Languages and Tools:
-bootstrap css3 express figma git graphql html5 javascript jest linux mocha mongodb mysql nestjs nodejs postgresql postman pug react reactnative redux typescript webpack
+Javascript Node Express Mongodb Mysql Git Graphql  Tailwind Figma bootstrap Linux CI/CD 
+React Redux Typescript Vite Next Firebase, Glogle Clouds
 
 ### Education 
 Bachellor degree in Computer Science Engineer
