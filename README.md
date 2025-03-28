@@ -82,8 +82,10 @@ https://tutorials.eu/
 ### **Frontend Developer | Zourcing**
 - Migrated an **Angular v6** employee profile management app to a mobile version.
 
-### **Fullstack Developer | Melilx (Zilos Project)**
+### **Fullstack Developer | Collins (Farmaceutical Project)**
 - Developed an **admin system** using **PHP Zend** to manage silo conditions.
+- Web and DB server administrator
+- aprentice of ABAP-SAP ERP
   
 - ### **Software Engineer | Tiempo Development (First Period)**
 - Developed a content management system for advertisement accounts using **Angular**,**WorkPress CMS**,**JavaScript**, and **CodeIgniter PHP**.
