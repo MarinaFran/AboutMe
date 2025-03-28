@@ -1,4 +1,4 @@
-¡Claro! Aquí tienes el perfil con los periodos en **Tiempo Development** invertidos:
+
 
 ---
 
@@ -50,7 +50,11 @@
 ---
 
 ## 🚀 Learning Today From
+Aprentice in Devlopers.net
+https://tutorials.eu/
 [LeetCode Profile](https://leetcode.com/Ambarjs/)
+
+
 
 ---
 
