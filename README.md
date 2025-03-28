@@ -84,7 +84,7 @@ https://tutorials.eu/
 - using IOnic 3
 
 ### **Fullstack Developer | Collins (Farmaceutical Project)**
-- Developed an **admin system** using **PHP Zend** to manage silo conditions.
+- Developed an **admin system** using **PHP Zend** to manage RH process.
 - Web and DB server administrator
 - aprentice of ABAP-SAP ERP
   
