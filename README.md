@@ -81,6 +81,7 @@ https://tutorials.eu/
 
 ### **Frontend Developer | Zourcing**
 - Migrated an **Angular v6** employee profile management app to a mobile version.
+- using IOnic 3
 
 ### **Fullstack Developer | Collins (Farmaceutical Project)**
 - Developed an **admin system** using **PHP Zend** to manage silo conditions.
