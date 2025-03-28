@@ -48,7 +48,12 @@
 🎓 **Bachelor's Degree in Computer Science Engineering**
 
 ---
+ **Certified Scrum Master (CSM)** with a strong background in **Systems Engineering**.
+  **Certified in Java** with expertise in **object-oriented programming** and **software development**.  
+🔹 Currently focusing on advancing my skills in **Angular**, **.NET development**, and **Agile project management**.  
+🔹 I’m always eager to learn and grow within the world of **software engineering** and **project leadership**.
 
+ 
 ## 🚀 Learning Today From
 Aprentice in Devlopers.net
 https://tutorials.eu/
