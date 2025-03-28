@@ -1,3 +1,7 @@
+¡Claro! Aquí tienes el perfil con los periodos en **Tiempo Development** invertidos:
+
+---
+
 # 👋 Hi, I'm Marina
 
 ## 🌐 Connect with me
@@ -15,18 +19,15 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ### **Other Tools**
@@ -51,27 +52,37 @@
 
 ## 💼 Work Experience
 
-### **Itexico**
-- Developed a hospital management app using **Ionic** and **MySQL Lite**.
-- Collaborated on an advertisement app using **Angular** and **Laravel**.
+### **C# Developer | Developers.net (1 year)**
+- Fullstack developer working with **C#**, **.NET**, **Angular**, **NgRx**, and **Entity Framework**.
+- Developed and maintained scalable applications.
+- Collaborated on frontend and backend features for enterprise solutions.
+- Improved state management using **NgRx** to optimize performance.
 
-### **Tiempo**
-- Developed an ad content management app using **CodeIgniter PHP**, **Vagrant**, **Angular**, and **JavaScript**.
 
-### **Dextra (Pemex Project)**
+### **Prentice | Tiempo Development (Second Period)**
+- Implemented an **online store** using **React** and the **Redux pattern**.
+- Gained experience in **state management** and **UI development** with React.
+
+
+### **Software Engineer | Dextra (Pemex Project)**
 - Reviewed, repaired, and documented a dashboard application.
 
-### **Zourcing**
-- Developed an employee profile management app using **Angular v6** and migrated it to mobile.
+### **Frontend Developer | Zourcing**
+- Migrated an **Angular v6** employee profile management app to a mobile version.
 
-### **Melilx (Zilos Project)**
-- Created an admin system using **PHP Zend** to manage data related to silo conditions.
+### **Fullstack Developer | Melilx (Zilos Project)**
+- Developed an **admin system** using **PHP Zend** to manage silo conditions.
+  
+- ### **Software Engineer | Tiempo Development (First Period)**
+- Developed a content management system for advertisement accounts using **Angular**,**WorkPress CMS**,**JavaScript**, and **CodeIgniter PHP**.
+- Managed backend and frontend features within an agile team.
+
 
 ### **Other Projects**
 - Developed an internal stock and product management system for **Jabones Lirio, Sánchez y Martínez**.
 - Created multiple internal service management applications for **Collins Pharmaceutical**.
-- Built several landing pages for hospitals, agritech industries, and dental clinics.
-- Developed internal systems for **Jalisco Government**, managing employees, resources, workshops, and clinical records in nursing areas.
+- Built several **landing pages** for hospitals, agritech industries, and dental clinics.
+- Developed internal systems for the **Jalisco Government**, managing employees, resources, workshops, and clinical records in nursing areas.
 
 ---
 
@@ -84,3 +95,6 @@
 
 🚀 Passionate about building innovative solutions and continuously learning new technologies!
 
+---
+
+Ahora los periodos en **Tiempo Development** están invertidos. Si necesitas algún otro ajuste, ¡avísame!
