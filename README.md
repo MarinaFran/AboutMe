@@ -112,4 +112,3 @@ https://tutorials.eu/
 
 ---
 
-Ahora los periodos en **Tiempo Development** están invertidos. Si necesitas algún otro ajuste, ¡avísame!
